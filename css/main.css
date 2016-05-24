@@ -46,18 +46,6 @@ p {
   transform: translateZ(0);
 }
 
-a {
-  color: rgb(222, 68, 21);
-  text-decoration: none;
-}
-
-a:hover {
-  color: rgb(0, 116, 217);
-}
-
-
-/* Off-screen text for accessibility */
-
 .screen-reader-text {
   position: absolute;
   top: -9999px;

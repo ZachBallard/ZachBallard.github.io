@@ -68,7 +68,7 @@ p {
   margin: 0 auto;
   background: rgba(255, 255, 255, .75);
   box-shadow: .5em .5em .5em rgba(0, 0, 0, .4);
-  border-radius: 5%;
+  border-radius: 10px;
 }
 
 .card {
@@ -102,7 +102,7 @@ p {
 #card2 {
   background: linear-gradient(rgba(1, 21, 178, 1), rgba(150, 125, 12, .85));
   background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
-  margin: 20em 0 0 0;
+  /*margin: 20em 0 0 0;*/
 }
 
 #card4 {

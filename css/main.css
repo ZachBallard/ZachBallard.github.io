@@ -93,7 +93,7 @@ p {
 }
 
 #card1 {
-  background: linear-gradient(rgba(0, 12, 217, .75), rgba(150, 125, 12, .85)), url(https://publicbool.files.wordpress.com/2015/06/cropped-code-wallpaper-101.jpg) right/cover;
+  background: linear-gradient(rgba(0, 12, 217, .95), rgba(150, 125, 12, .85)), url(https://publicbool.files.wordpress.com/2015/06/cropped-code-wallpaper-101.jpg) right/cover;
   transform: translateZ(-1px) scale(2);
   z-index: -1;
 }

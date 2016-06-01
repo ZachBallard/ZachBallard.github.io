@@ -36,6 +36,10 @@ p {
   font-size: 1.2em;
 }
 
+i {
+  font-size: 100px;
+}
+
 .center {
   display: flex;
   justify-content: center;

@@ -75,6 +75,7 @@ p {
   padding: 5vh 15px 5vh 2px;
   min-height: 100%;
   max-width: 100vw;
+  border-radius: 5px;
   /*transform-style: inherit;*/
 }
 
@@ -101,7 +102,7 @@ p {
 #card2 {
   background: linear-gradient(rgba(0, 12, 217, .95), rgba(150, 125, 12, .85));
   background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
-  margin: 20em 0 0 0;
+  /*margin: 20em 0 0 0;*/
 }
 
 #card4 {

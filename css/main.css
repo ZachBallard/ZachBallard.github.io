@@ -93,13 +93,13 @@ p {
 }
 
 #card1 {
-  background: linear-gradient(rgba(0, 12, 217, .95), rgba(150, 125, 12, .85)), url(https://publicbool.files.wordpress.com/2015/06/cropped-code-wallpaper-101.jpg) right/cover;
+  background: linear-gradient(rgba(0, 12, 217, .75), rgba(150, 125, 12, .85)), url(https://publicbool.files.wordpress.com/2015/06/cropped-code-wallpaper-101.jpg) right/cover;
   transform: translateZ(-1px) scale(2);
   z-index: -1;
 }
 
 #card2 {
-  background: linear-gradient(rgba(0, 12, 217, .75), rgba(0, 0, 0, 0));
+  background: linear-gradient(rgba(0, 12, 217, .95), rgba(0, 0, 0, 0));
   background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
   margin: 20em 0 0 0;
 }

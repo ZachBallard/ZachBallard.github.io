@@ -12,7 +12,7 @@ body {
   padding: 0;
   height: 100%;
   transform-style: preserve-3d;
-  background-color: #000;
+  background-color: rgba(0, 12, 217, .75);
 }
 
 .page-wrap {

@@ -73,7 +73,7 @@ p {
 .content {
   width: 80vw;
   max-width: 45em;
-  padding: 1.5em 2em;
+  /*padding: 1.5em 2em;*/
   margin: 0 auto;
   background: rgba(255, 255, 255, .75);
   box-shadow: .5em .5em .5em rgba(0, 0, 0, .4);

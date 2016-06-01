@@ -36,6 +36,10 @@ p {
   font-size: 1.2em;
 }
 
+.icon-section{
+  text-align: center;
+}
+
 .fa {
   font-size: 100px;
   padding-right: 30px;
